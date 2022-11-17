@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089353836614",
+    "project_id": "expansecontrolapp",
+    "storage_bucket": "expansecontrolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089353836614:android:83e08a49f912e660200247",
+        "android_client_info": {
+          "package_name": "com.expensecontrolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089353836614-7krq3qab9jh3aat34p3300kc9kjegndm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9eRFUKUmdvKw1BKcvD0tPKqVLYQNvb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089353836614-7krq3qab9jh3aat34p3300kc9kjegndm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

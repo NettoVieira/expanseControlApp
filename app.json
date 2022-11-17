@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expenseControlApp",
+    "slug": "expenseControlApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
